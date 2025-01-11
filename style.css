@@ -1,0 +1,30 @@
+@import url('https://db.onlinewebfonts.com/c/952bab25f6798d6bb1937d67e9bee4dd?family=Sans');
+
+
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --main-color: #01031F;
+    --scnd-color: #164FE0;
+    --grad-color: 
+}
+
+html {
+    scroll-behavior: smooth;
+    scrollbar-color: var(--scnd-color);
+}
+
+body {
+    font-family: "Sans";
+    font-weight: 400;
+    font-style: normal;
+}
+
